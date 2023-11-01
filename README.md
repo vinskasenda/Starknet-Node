@@ -78,7 +78,4 @@ docker logs -f <container id>`
 
 
 ## Contact
-If you have any questions, please contact me at [Telegram](https://t.me/bxdoan)
-
-## Thanks for use
-[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://paypal.me/bxdoan)
+If you have any questions, please contact me at [Telegram](https://t.me/0xvikitoshi)
